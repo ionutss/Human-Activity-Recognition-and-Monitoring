@@ -1,0 +1,2 @@
+C:\Licenta\HARM\OxyPlotDemo\obj\Debug\OxyPlotDemo.exe
+C:\Licenta\HARM\OxyPlotDemo\obj\Debug\OxyPlotDemo.pdb

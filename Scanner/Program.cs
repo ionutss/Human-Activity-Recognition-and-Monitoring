@@ -21,7 +21,7 @@ namespace Scanner
     {
         static void Main(string[] args)
         {
-            JObject json = JsonConvert.DeserializeObject<JObject>(File.ReadAllText(@"c:\USC_HAD\Subject1\a5t1.json"));
+            JObject json = JsonConvert.DeserializeObject<JObject>(File.ReadAllText(@"c:\USC_HAD\Subject1\a9t1.json"));
             JObject o = (JObject)(json["readings"]);
             JArray arrayX = (JArray)(o["acc_x"]);
             JArray arrayY = (JArray)(o["acc_y"]);
@@ -84,7 +84,7 @@ namespace Scanner
                         }
                         ProcessBuffer(ProcessWindow.X, "X");
                         //ProcessBuffer(ProcessWindow.Y, "Y");
-                        Thread.Sleep(500);
+                        //Thread.Sleep(500);
                         CircularBuffer.IncrementReadOffset();
                     }
 

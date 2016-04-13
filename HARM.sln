@@ -1,9 +1,9 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 14
-VisualStudioVersion = 14.0.23107.0
+VisualStudioVersion = 14.0.24720.0
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OxyPlotDemo", "OxyPlotDemo\OxyPlotDemo.csproj", "{18A5702B-50C4-4145-B808-231AF6BEE8E3}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PlotExperiment", "OxyPlotDemo\PlotExperiment.csproj", "{18A5702B-50C4-4145-B808-231AF6BEE8E3}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Scanner", "Scanner\Scanner.csproj", "{C966C673-E7C4-40CA-B674-27FF71109ACD}"
 EndProject

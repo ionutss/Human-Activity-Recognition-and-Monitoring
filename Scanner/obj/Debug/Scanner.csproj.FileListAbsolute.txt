@@ -6,3 +6,11 @@ C:\Users\ionut\Desktop\OxyPlotDemo-master\OxyPlotDemo\Scanner\obj\Debug\Scanner.
 C:\Users\ionut\Desktop\OxyPlotDemo-master\OxyPlotDemo\Scanner\obj\Debug\Scanner.pdb
 C:\Users\ionut\Desktop\OxyPlotDemo-master\OxyPlotDemo\Scanner\bin\Debug\Newtonsoft.Json.dll
 C:\Users\ionut\Desktop\OxyPlotDemo-master\OxyPlotDemo\Scanner\bin\Debug\Newtonsoft.Json.xml
+C:\Licenta\HARM\Scanner\bin\Debug\Scanner.exe.config
+C:\Licenta\HARM\Scanner\obj\Debug\Scanner.exe
+C:\Licenta\HARM\Scanner\obj\Debug\Scanner.pdb
+C:\Licenta\HARM\Scanner\bin\Debug\Scanner.exe
+C:\Licenta\HARM\Scanner\bin\Debug\Scanner.pdb
+C:\Licenta\HARM\Scanner\bin\Debug\Newtonsoft.Json.dll
+C:\Licenta\HARM\Scanner\bin\Debug\Newtonsoft.Json.xml
+C:\Licenta\HARM\Scanner\obj\Debug\Scanner.csprojResolveAssemblyReference.cache
